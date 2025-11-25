@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+    </array>
+    
+    <array name="background_color_options">
+        <item>White</item>
+        <item>Light Gray</item>
+        <item>Beige</item>
+        <item>Light Blue</item>
+        <item>Light Green</item>
+    </array>
+    
+    <array name="font_family_options">
+        <item>Default</item>
+        <item>Serif</item>
+        <item>Sans-serif</item>
+        <item>Monospace</item>
+    </array>
+    
+    <array name="category_options">
+        <item>None</item>
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Ideas</item>
+        <item>Shopping</item>
+        <item>Important</item>
+    </array>
+</resources>
+
