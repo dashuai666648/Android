@@ -384,11 +384,13 @@ String[] selectionArgs = {"%" + keyword + "%", "%" + keyword + "%"};
      - 待办状态标签（右侧，橙色/绿色）
 
 **布局示意图：**
-```
+
 ![main_list.png](screenshots/main_list.png)
+
 ![light_theme.png](screenshots/light_theme.png)
+
 ![dark_theme.png](screenshots/dark_theme.png)
-```
+
 
 **截图说明：**
 - 应展示深色主题下的笔记列表
@@ -415,9 +417,9 @@ String[] selectionArgs = {"%" + keyword + "%", "%" + keyword + "%"};
    - 自动换行
 
 **布局示意图：**
-```
+
 ![editor.png](screenshots/editor.png)
-```
+
 
 **截图说明：**
 - 展示编辑界面的完整布局
@@ -440,9 +442,9 @@ String[] selectionArgs = {"%" + keyword + "%", "%" + keyword + "%"};
 4. **Font Family（字体类型）**：下拉选择4种字体
 
 **布局示意图：**
-```
+
 ![settings.png](screenshots/settings.png)
-```
+
 
 **截图说明：**
 - 展示设置界面的完整布局
@@ -458,9 +460,9 @@ String[] selectionArgs = {"%" + keyword + "%", "%" + keyword + "%"};
 - 高亮显示匹配项
 
 **布局示意图：**
-```
+
 ![search.png](screenshots/search.png)
-```
+
 
 **截图说明：**
 - 展示搜索框展开状态
@@ -478,9 +480,9 @@ String[] selectionArgs = {"%" + keyword + "%", "%" + keyword + "%"};
 - **默认**：深橙色 (#FF5722)
 
 **布局示意图：**
-```
+
 ![categories.png](screenshots/categories.png)
-```
+
 
 **截图说明：**
 - 展示不同分类标签的颜色效果
@@ -499,9 +501,9 @@ String[] selectionArgs = {"%" + keyword + "%", "%" + keyword + "%"};
   - 右侧标签：绿色背景，显示"✓ 已完成"
 
 **布局示意图：**
-```
+
 ![todo_states.png](screenshots/todo_states.png)
-```
+
 
 **截图说明：**
 - 对比展示待办中和已完成的视觉效果
